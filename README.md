@@ -18,7 +18,7 @@ output: html_document
 * (3) **Clone** from my [Github](https://github.com/DanielKLowery/mycomputingrep) repository
 * (4) Open *README.md* in R Studio 
 * (5) Write up Biography
-* (6) **Commit** changes and **Push**
+* (6) Copy into Github then **Commit** changes and **Push**
 * (7) Finally, submit **Pull Request** to course Github
 
 
@@ -38,7 +38,7 @@ Outside of research, my main hobbies are:
 * Pokemon Go
 
 Here is a picture of myself and Jack (my traveling duck) on a glacier
-![Jack](C:\Users\Dan\OneDrive\Pictures\IMG5981.jpg)
+!(C:\Users\Dan\OneDrive\Pictures\IMG5981.jpg)
 
 # Thoughts
 At first I found Github and markdown rather complicated. Inititially, I had problems using the Github Bash/GUI to commit changes. Also, I have expierence coding in R but have never used markdown. There was a little bit of a learning curve. I hope these added complexities pay-off.
